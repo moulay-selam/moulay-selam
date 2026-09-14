@@ -2,35 +2,28 @@
 
 ## Full Stack & Mobile Developer
 
-Passionate about building web and mobile applications using modern technologies.
+Passionate about building scalable web and mobile applications.
 
-### Tech Stack
-
+### 🚀 Tech Stack
 - Java
 - Spring Boot
-- Spring Security
-- PostgreSQL
 - React
+- Nextjs
 - React Native
-- JavaScript
+- PostgreSQL
+- MySQL
 - Git & GitHub
+- Docker
 
-### Featured Projects
+### 📌 Featured Projects
 
 #### WASALI
-Collaborative delivery platform connecting senders and travelers.
+Collaborative delivery platform connecting shippers and travelers.
 Built with Spring Boot, React, React Native and PostgreSQL.
 
-#### Portfolio
+#### Portfolio Website
 Personal portfolio showcasing my projects, skills and experience.
 
-### Currently Learning
-
-- Machine Learning
-- Data Science
-- Artificial Intelligence
-
-### Contact
-
+### 📫 Contact
 - LinkedIn: linkedin.com/in/moulaye-elhacen-selam-811aba380
 - Email: moulayeselam@gmail.com
